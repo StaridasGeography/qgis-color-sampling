@@ -33,7 +33,7 @@ For a full step-by-step tutorial, including the historical context of the 1928 I
 ---
 
 ## 📄 License & Credits
-* **Author**: [Staridas Geography](https://www.staridasgeography.gr/blog/color-sampling-in-qgis/) #MakingMapsPretty
+* **Author**: [Staridas Geography](https://www.staridasgeography.gr/) #MakingMapsPretty
 * **Website**: [www.staridasgeography.gr](https://www.staridasgeography.gr)
 * **License**: CC BY-NC-ND 4.0
 * **Copyright**: 2026 | All Rights Reserved
